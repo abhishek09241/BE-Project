@@ -1,4 +1,4 @@
-Smart Electronic Voting Machine Using Arduino
+**Smart Electronic Voting Machine Using Arduino**
 
 This project demonstrates a simple and smart electronic voting machine using an Arduino. 
 The goal is to create an automated, transparent, and efficient voting system that eliminates the possibility of manual errors or fraud in traditional voting systems.
