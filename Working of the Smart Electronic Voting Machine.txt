@@ -1,6 +1,7 @@
 Working of the Smart Electronic Voting Machine Using Arduino
 
-The Smart Electronic Voting Machine project uses an Arduino and a LiquidCrystal Display (LCD) to provide a simple and secure electronic voting system. This system allows voters to cast their votes for a candidate by pressing a button, and it displays the results on the LCD screen.
+The Smart Electronic Voting Machine project uses an Arduino and a LiquidCrystal Display (LCD) to provide a simple and secure electronic voting system. 
+This system allows voters to cast their votes for a candidate by pressing a button, and it displays the results on the LCD screen.
 1. Hardware Setup:
 
     Arduino Board: The Arduino is the central controller that processes inputs from buttons and controls the LCD.
@@ -94,4 +95,5 @@ If there’s a tie, it shows:
 
 Conclusion:
 
-The Smart Electronic Voting Machine Using Arduino provides a simple, efficient, and transparent way to conduct voting. It ensures that votes are counted accurately and the results are displayed immediately, making it an ideal solution for small-scale elections
+The Smart Electronic Voting Machine Using Arduino provides a simple, efficient, and transparent way to conduct voting. 
+It ensures that votes are counted accurately and the results are displayed immediately, making it an ideal solution for small-scale elections
